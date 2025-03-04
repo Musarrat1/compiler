@@ -1,5 +1,6 @@
-int main(){
-    int a,b;
-    int c =a+b;
-    return c;
-}
+int
+a+b;
+    cout<<c<<endl;
+    return 
+    0;
+
