@@ -14,6 +14,9 @@ bool isSeparator(char ch){
     return false;
 }
 
+
+
+
 bool isOparator(char ch){
     string value = "+-*/<>=!";
     for(int i=0; i<value.length(); i++){
